@@ -1,6 +1,6 @@
 # ctf-writeups
 
-here is some of mine ctf write-ups , mainly digital forensic
+here is some of mine ctf write-ups , mainly memory forensic
 
 #BREAKIN-Suspicious Memory
 
